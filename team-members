@@ -1,0 +1,35 @@
+<html>
+<head>
+</head>
+<body bgcolor="gray">
+<h1>Tekton Management Team</h1>
+<br>
+  <h2><font color="darkblue">Meet Our Team</font></h2>
+
+  <h3><u><b>Henao Alejandro – Chief Executive Officer</b></u></h3>
+  <p><i>Henao founded Tekton in 2015 with a vision to modernize construction through sustainable practices. With over 15 years of experience in real estate and engineering, he leads our strategic direction.</i></p>
+
+  <h3><u><b>Tang Xinyan – Chief Operations Officer</b></u></h3>
+  <p>Xinyan oversees daily operations and project execution. She is known for her <font color="blue">efficiency</font> and team coordination skills.</p>
+  <ul>
+    <li>Oversees construction timelines</li>
+    <li>Manages project teams</li>
+    <li>Ensures safety standards</li>
+  </ul>
+
+  <h3><u><b>Tian Wan – Chief Technology Officer</b></u></h3>
+  <p><i>Wan leads our technical innovation division. She introduced our high-tech and green energy integrations.</i></p>
+  <ol>
+    <li>Joined Tekton in 2017</li>
+    <li>Received "Top Innovator" award last year</li>
+  </ol>
+  <br>
+  <a href="mailto:tian219@purdue.edu">Contact our team</a><br>
+  <a href="team-structure.pdf" download>Download Team Structure</a><br>
+  <a href="https://www.linkedin.com/" target="_blank">More information about our teammembers.</a>
+<br>
+<br>
+  <small><i>Page last updated on:<script type="text/javascript">document.write(new Date().toLocaleDateString())</script></i></small><br><br>
+  <img src="teammembers.jpg" width="300" height="240">
+</body>
+</html>
